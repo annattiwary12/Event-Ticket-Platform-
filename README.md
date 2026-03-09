@@ -176,3 +176,32 @@ This project demonstrates:
 - Clean backend architecture
 - Ticket purchasing system
 - QR code ticket validation
+  --------------------------------------------------
+
+## 👨‍💻 Author
+
+Anant Tiwary
+
+Backend Developer | Java | Spring Boot | PostgreSQL
+
+GitHub: https://github.com/annattiwary12
+
+--------------------------------------------------
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a star ⭐ on GitHub.
+
+It helps others discover the project and motivates further improvements.
+
+--------------------------------------------------
+
+## 📌 Note
+
+This project was built for learning backend system design concepts including:
+
+- REST API development
+- Authentication and security
+- Database modeling
+- Ticket validation workflows
+- Real-world backend architecture
